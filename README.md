@@ -1,3 +1,5 @@
 # Implementación de Árbol Binario de Búsqueda (ABB) en C
 
-![Diagrama del ABB con los números de prueba](arbol.png)
+<p align="center">
+  <img src="arbol.png" alt="Diagrama del ABB">
+</p>
